@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -11,13 +12,13 @@ namespace ActivosFijosXML
 
     class registrar
     {
-        SqlConnection cn = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["conexion"].ConnectionString);
+        SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["conexion"].ConnectionString);
 
         public int noasiento { get; set; }
         public string descripcion { get; set; }
         public DateTime fecha { get; set; }
         public int cuenta { get; set; }
-        public string  movimiento { get; set; }
+        public string movimiento { get; set; }
         public double monto { get; set; }
 
         public registrar(int noasiento, string descripcion, DateTime fecha, int cuenta, string movimiento, double monto)
@@ -28,7 +29,6 @@ namespace ActivosFijosXML
             this.cuenta = cuenta;
             this.movimiento = movimiento;
             this.monto = monto;
-
 
         }
 

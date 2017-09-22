@@ -49,6 +49,7 @@
             this.btnExportar.TabIndex = 1;
             this.btnExportar.Text = "Exportar a XML";
             this.btnExportar.UseVisualStyleBackColor = true;
+            this.btnExportar.Click += new System.EventHandler(this.btnExportar_Click);
             // 
             // Form1
             // 

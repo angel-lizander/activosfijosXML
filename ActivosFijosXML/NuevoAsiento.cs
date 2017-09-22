@@ -19,7 +19,8 @@ namespace ActivosFijosXML
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var registro = new registrar(Convert.ToInt32(txtnoasiento.Text), richTextBox1.ToString(), Convert.ToDateTime(txtfecha.Text), Convert.ToInt16(txtcuenta.Text), comboBox1.ToString(), Convert.ToDouble(txtmonto.Text));
+            string a = comboBox1.SelectedItem.ToString();
+            var registro = new registrar(Convert.ToInt32(txtnoasiento.Text), txtdescripcion.Text, Convert.ToDateTime(txtfecha.Text), Convert.ToInt32(txtcuenta.Text),a , Convert.ToDouble(txtmonto.Text));
             registro.registrando();
         }
     }

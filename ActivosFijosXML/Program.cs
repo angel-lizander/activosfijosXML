@@ -16,7 +16,7 @@ namespace ActivosFijosXML
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new NuevoAsiento());
+            Application.Run(new Form1());
         }
     }
 }
