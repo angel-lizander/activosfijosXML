@@ -1,0 +1,11 @@
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\ActivosFijosXML\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe.config
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe.config
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\bin\Debug\ActivosFijosXML.pdb
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.csprojResolveAssemblyReference.cache
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.Form1.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.Properties.Resources.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.csproj.GenerateResource.Cache
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.exe
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.pdb
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.NuevoAsiento.resources
