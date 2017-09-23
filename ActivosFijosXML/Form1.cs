@@ -44,8 +44,9 @@ namespace ActivosFijosXML
         private void btnExportar_Click(object sender, EventArgs e)
         {
             SqlDataAdapter da;
-            var tabla = new DataTable();
+            DataTable tabla = new DataTable();
             da = new SqlDataAdapter("select * from asientos", cn);
+            da.Fill(tabla);
             SaveFileDialog savefile1 = new SaveFileDialog();
             savefile1.Filter = "XML Files (.XML)|*.XML";
             savefile1.DefaultExt = "xml";
@@ -53,6 +54,8 @@ namespace ActivosFijosXML
             savefile1.DefaultExt = "txt";
             savefile1.ShowDialog();
             string saveas = savefile1.FileName;
+            DataSet dataSet = new DataSet();
+            dataSet.Tables.Add(tabla);
             tabla.WriteXml(saveas);
         }
     }
