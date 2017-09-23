@@ -9,3 +9,4 @@ C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Deb
 C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.exe
 C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.pdb
 C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.NuevoAsiento.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.GeneradorXML.resources
