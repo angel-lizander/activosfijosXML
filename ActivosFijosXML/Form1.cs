@@ -47,15 +47,13 @@ namespace ActivosFijosXML
             DataTable tabla = new DataTable();
             da = new SqlDataAdapter("select * from asientos", cn);
             da.Fill(tabla);
-            SaveFileDialog savefile1 = new SaveFileDialog();
-            savefile1.Filter = "XML Files (.XML)|*.XML";
-            savefile1.DefaultExt = "xml";
-            savefile1.AddExtension = true;
-            savefile1.DefaultExt = "txt";
-            savefile1.ShowDialog();
-            string saveas = savefile1.FileName;
             DataSet dataSet = new DataSet();
             dataSet.Tables.Add(tabla);
+            SaveFileDialog savefile1 = new SaveFileDialog();
+            savefile1.Filter = "XML Files (.XML)|*.XML";
+            savefile1.AddExtension = true;
+            savefile1.ShowDialog();
+            string saveas = savefile1.FileName;        
             tabla.WriteXml(saveas);
         }
     }
