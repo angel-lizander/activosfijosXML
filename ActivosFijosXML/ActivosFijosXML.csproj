@@ -59,6 +59,13 @@
     <Compile Include="GeneradorXML.Designer.cs">
       <DependentUpon>GeneradorXML.cs</DependentUpon>
     </Compile>
+    <Compile Include="LeerXML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeerXML.Designer.cs">
+      <DependentUpon>LeerXML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Asiento.cs" />
     <Compile Include="NuevoAsiento.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +80,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GeneradorXML.resx">
       <DependentUpon>GeneradorXML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeerXML.resx">
+      <DependentUpon>LeerXML.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="NuevoAsiento.resx">
       <DependentUpon>NuevoAsiento.cs</DependentUpon>

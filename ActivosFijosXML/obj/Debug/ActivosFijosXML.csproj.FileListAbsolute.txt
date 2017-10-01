@@ -10,3 +10,39 @@ C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Deb
 C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.pdb
 C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.NuevoAsiento.resources
 C:\Users\Luz Valenzuela\Documents\GitHub\activosfijosXML\ActivosFijosXML\obj\Debug\ActivosFijosXML.GeneradorXML.resources
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe.config
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.pdb
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.csprojResolveAssemblyReference.cache
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.Form1.resources
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.GeneradorXML.resources
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.NuevoAsiento.resources
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.Properties.Resources.resources
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.csproj.GenerateResource.Cache
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.csproj.CoreCompileInputs.cache
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.exe
+C:\Users\20131071\Downloads\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.pdb
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe.config
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.pdb
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.csprojResolveAssemblyReference.cache
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.Form1.resources
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.GeneradorXML.resources
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.NuevoAsiento.resources
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.Properties.Resources.resources
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.csproj.GenerateResource.Cache
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.csproj.CoreCompileInputs.cache
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.exe
+D:\CreadorTSS-master\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.pdb
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe.config
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.exe
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.pdb
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.exe
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\bin\Debug\ActivosFijosXML.pdb
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.csprojResolveAssemblyReference.cache
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.Form1.resources
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.GeneradorXML.resources
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.LeerXML.resources
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.NuevoAsiento.resources
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.Properties.Resources.resources
+C:\Users\Luz Valenzuela\Desktop\Visual\activosfijosXML-master\activosfijosXML-master\ActivosFijosXML\obj\Debug\ActivosFijosXML.csproj.GenerateResource.Cache

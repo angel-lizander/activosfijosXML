@@ -28,5 +28,11 @@ namespace ActivosFijosXML
             Form1 generar = new Form1();
             generar.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            LeerXML lector = new LeerXML();
+            lector.ShowDialog();
+        }
     }
 }
